@@ -4395,6 +4395,10 @@ split-string@^3.0.1, split-string@^3.0.2:
   dependencies:
     extend-shallow "^3.0.0"
 
+spotify-wrapper@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/spotify-wrapper/-/spotify-wrapper-2.0.5.tgz#08c64cd03c0db16d562f769a30c34724d2fb571e"
+
 sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
