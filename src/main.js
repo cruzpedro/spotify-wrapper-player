@@ -1,1 +1,7 @@
-console.log('webpack dev server configurado');
+import searchEnterTrigger from './searchTrigger';
+import selecAlbumTrigger from './selectAlbumTrigger';
+import playlistTrigger from './playlistTrigger';
+
+searchEnterTrigger();
+selecAlbumTrigger();
+playlistTrigger();
